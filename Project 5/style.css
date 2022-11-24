@@ -1,0 +1,17 @@
+caption{
+    color: green;
+
+}
+table{
+    color: blue;
+    border-color: crimson;
+    border-collapse: collapse;
+    background-color: aqua;
+    border-style: groove;
+}
+tr{
+    border-style: dotted;
+}
+th{
+    border-style: inherit;
+}
