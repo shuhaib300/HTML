@@ -1,0 +1,18 @@
+ul{
+    width: 150%;
+    font: bold;
+    padding: 10px;
+}
+    
+    li a:hover{
+        color: white;
+        background-color: red;
+    }
+
+    li a{
+        color: white;
+    }
+
+    .carousel-slide{
+        border-radius: 200;
+    }
